@@ -11,7 +11,7 @@ que vuelva a pedir otro número.
 import java.util.Scanner;
 
 
-public class ejercicio06{
+public class palindromo{
 	
 	
 	
