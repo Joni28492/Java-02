@@ -9,7 +9,7 @@ Utilizando bucles mostrar la tabla de multiplicar del número que se le solicite
 import java.util.Scanner;
 
 
-public class ejercicio02{
+public class TablaMultiplicar.java{
 	
 	
 	
